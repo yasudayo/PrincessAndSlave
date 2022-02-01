@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    font-size: 1.5rem;
+    width: 75%;
+    margin: 0 auto;
+}
+#button1 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 100px;
+    border-radius: 8px;
+    background-color: #f54260;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    user-select: none;
+    box-shadow: 0px 5px 0px #bf0020;
+}
+#button2 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 100px;
+    border-radius: 8px;
+    background-color: #006eff;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    user-select: none;
+    box-shadow: 0px 5px 0px #1300bf;
+}
+#button3 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 100px;
+    border-radius: 8px;
+    background-color: #00ce00;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    user-select: none;
+    box-shadow: 0px 5px 0px #056805;
+}
